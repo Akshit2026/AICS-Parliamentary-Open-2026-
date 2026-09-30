@@ -1,0 +1,3 @@
+  User-agent: *
+  Allow: /
+  Sitemap: https://akshit2026.github.io/Website-APO-Official-/sitemap.xml
